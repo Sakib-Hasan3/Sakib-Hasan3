@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hi 👋, I'm Mohammed Sakib Hasan
 
-<!--
-**Sakib-Hasan3/Sakib-Hasan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=sadman2084&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently studying Computer Science
+- 📫 How to reach me: [ug2102052@cse.pstu.ac.bd](mailto:ug2102052@cse.pstu.ac.bd)
+- ⚡️ Fun fact: I'm funny 😁😁
+- 💻 All of my projects are available on GitHub
+- 👨‍💻 Ask me about C and C++
+- 🌱 I’m currently learning C++, Python, HTML, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+- [LinkedIn](https://github.com/Sakib-Hasan3)
+- [Twitter](https://twitter.com/your-profile)
+- [Facebook](https://www.facebook.com/profile.php?id=100033878223481)
