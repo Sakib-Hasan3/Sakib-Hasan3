@@ -13,7 +13,7 @@
 
 ---
 
-### 🔭 I’m currently studyin on Computer Science 
+### 🔭 I’m currently studying on Computer Science 
 
 ### 🌱 I’m currently learning
 - Data Science 
