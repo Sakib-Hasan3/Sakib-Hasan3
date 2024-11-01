@@ -1,6 +1,7 @@
 # Welcome to Mohammed Sakib Hasan's GitHub Profile
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hello+there!+Welcome+to+my+profile;I+am+Mohammed+Sakib+Hasan)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hello+there!+Welcome+to+my+profile;I+am+Mohammed+Sakib+Hasan;I+am+studying+Computer+Science;My+University+is+Patuakhali+Science+and+Technology+University)
+
 
 
 ---
