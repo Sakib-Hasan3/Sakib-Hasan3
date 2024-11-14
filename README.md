@@ -34,7 +34,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/profile.php?id=100053139540646](https://www.facebook.com/profile.php?id=100033878223481))
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](sakib_hasan1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/prosenjit-mondol-615342266/](https://www.linkedin.com/in/sakib-hasan-931276266/))
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]([https://codeforces.com/profile/prosenjit_mondol](https://codeforces.com/profile/sakibpstu123))
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]((https://codeforces.com/profile/sakibpstu123))
 
 
 ---
