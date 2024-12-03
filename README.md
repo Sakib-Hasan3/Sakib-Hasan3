@@ -20,6 +20,13 @@
 
 ---
 
+## 🌟 About Me:
+- 🎓 **University:** Patuakhali Science and Technology University  
+- 💻 **Current Focus:** Learning Data Science and improving coding skills  
+- 🎯 **Goal:** To make a positive impact through technology  
+- 🎨 **Hobbies:** Exploring new tech, coding, gaming, and graphic designing  
+
+
 ### 👀 Number of Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sakib-Hasan3&style=flat-square&color=blue)
 
@@ -32,7 +39,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sakib_hasan1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib-hasan-931276266/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sakibpstu123)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/<01869793139>)
 ---
 
 ### 🗣 Programming Language:
@@ -69,12 +76,29 @@
 
 ---
 
+## 🌈 Animated Fun:
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
 ### 🎨 Custom Image/GIF:
 ![Custom Image](https://link-to-image.png)
 
 <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100">
 
 ---
+
+## 📌 Featured Projects:
+Here are a few standout projects:
+
+- 🔹 **EcoWrap** 🌱  
+  A sustainable and eco-friendly packaging solution using water hyacinth, jute, and banana peels.
+
+- 🔹 **Alcohol Detector Robot (IoT-based)** 🤖  
+  An IoT-based robot capable of detecting alcohol levels for safety and monitoring purposes.
+
+- 🔹 **Solar Tracking System** ☀️  
+  An Arduino-based system that optimizes solar panel efficiency by tracking the sun's position.
+
 
 ### ⚡ Fun Fact:
 > "I am funny! 😄"
