@@ -82,7 +82,7 @@ Check out my full portfolio: [Portfolio Link](http://127.0.0.1:5500/portfolio/in
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🎨 Custom Image/GIF:
-![Custom Image](https://link-to-image.png)
+![Custom Image](https://www.steveyackey.com/post/gopherjs-github-actions/)
 
 <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100">
 
