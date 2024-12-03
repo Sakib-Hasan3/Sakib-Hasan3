@@ -19,13 +19,14 @@
 - **Spoken English**
 
 ---
+## 📌 My Portfolio:
+Check out my full portfolio: [Portfolio Link](http://127.0.0.1:5500/portfolio/index.html)
 
 ## 🌟 About Me:
 - 🎓 **University:** Patuakhali Science and Technology University  
 - 💻 **Current Focus:** Learning Data Science and improving coding skills  
 - 🎯 **Goal:** To make a positive impact through technology  
 - 🎨 **Hobbies:** Exploring new tech, coding, gaming, and graphic designing  
-
 
 ### 👀 Number of Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sakib-Hasan3&style=flat-square&color=blue)
@@ -40,6 +41,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib-hasan-931276266/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sakibpstu123)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/<01869793139>)
+
 ---
 
 ### 🗣 Programming Language:
@@ -79,16 +81,12 @@
 ## 🌈 Animated Fun:
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-
 ### 🎨 Custom Image/GIF:
 ![Custom Image](https://link-to-image.png)
 
 <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100">
 
 ---
-
-## 📌 Featured Projects:
-Here are a few standout projects:
 
 ## 📌 Featured Projects:
 Here are a few standout projects:
@@ -102,7 +100,7 @@ An IoT-based robot capable of detecting alcohol levels for safety and monitoring
 🔹 [Solar Tracking System ☀️](https://github.com/Sakib-Hasan3/Solar-Tracking-System)  
 An Arduino-based system that optimizes solar panel efficiency by tracking the sun's position.
 
-
+---
 
 ### ⚡ Fun Fact:
 > "I am funny! 😄"
