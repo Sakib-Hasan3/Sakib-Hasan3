@@ -90,14 +90,18 @@
 ## 📌 Featured Projects:
 Here are a few standout projects:
 
-- 🔹 **EcoWrap** 🌱  
-  A sustainable and eco-friendly packaging solution using water hyacinth, jute, and banana peels.
+## 📌 Featured Projects:
+Here are a few standout projects:
 
-- 🔹 **Alcohol Detector Robot (IoT-based)** 🤖  
-  An IoT-based robot capable of detecting alcohol levels for safety and monitoring purposes.
+🔹 [EcoWrap 🌱](https://github.com/Sakib-Hasan3/EcoWrap)  
+A sustainable and eco-friendly packaging solution using water hyacinth, jute, and banana peels.
 
-- 🔹 **Solar Tracking System** ☀️  
-  An Arduino-based system that optimizes solar panel efficiency by tracking the sun's position.
+🔹 [Alcohol Detector Robot (IoT-based) 🤖](https://github.com/Sakib-Hasan3/Alcohol-Detector-Robot)  
+An IoT-based robot capable of detecting alcohol levels for safety and monitoring purposes.
+
+🔹 [Solar Tracking System ☀️](https://github.com/Sakib-Hasan3/Solar-Tracking-System)  
+An Arduino-based system that optimizes solar panel efficiency by tracking the sun's position.
+
 
 
 ### ⚡ Fun Fact:
