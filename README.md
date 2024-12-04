@@ -1,4 +1,6 @@
-# Welcome to Mohammed Sakib Hasan's GitHub Profile 👋
+<h3 align="center">
+  Welcome to Mohammed Sakib Hasan's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hello+there!+Welcome+to+my+profile;I+am+Mohammed+Sakib+Hasan;I+am+studying+Computer+Science;My+University+is+Patuakhali+Science+and+Technology+University)
 
@@ -8,15 +10,15 @@
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Sakib-Hasan3&theme=gruvbox&margin-w=15&margin-h=15)
 
 ---
+### 🌟 **About Me**  
 
-### 🔭 I’m currently studying:
-- **Computer Science**
-
-### 🌱 I’m currently learning:
-- **Data Science**
-
-### 🗣 Improving:
-- **Spoken English**
+- 🏫 I am a **2nd Year student** from the Faculty of **Computer Science and Engineering** at **Patuakhali Science and Technology University**.  
+- 🏆 **Achievements**: *Nothing yet, but always striving to grow!*  
+- 🧔‍♂️ I love technology and enjoy using it to solve everyday problems.  
+- 🧑‍💻 Beginner **Data Science**   
+- 🖱️ I have learned **C** and am currently learning **Java**, **C++**, and **Python**.  
+- 🧑‍🎓 Currently studying **Computer Science and Software Engineering**.  
+- 🤓 Passionate about exploring and learning new things every day.  
 
 ---
 ## 📌 My Portfolio:
@@ -67,6 +69,11 @@ Check out my full portfolio: [Portfolio Link](http://127.0.0.1:5500/portfolio/in
 
 ---
 
+## 🧑‍💻 My Competitive Programming Profiles
+
+- **[Codeforces](https://codeforces.com/profile/sakibpstu123):**  
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sakibpstu123)  
+
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakib-Hasan3&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib-Hasan3&layout=compact&theme=radical)
@@ -81,10 +88,6 @@ Check out my full portfolio: [Portfolio Link](http://127.0.0.1:5500/portfolio/in
 ## 🌈 Animated Fun:
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-### 🎨 Custom Image/GIF:
-![Custom Image](https://www.steveyackey.com/post/gopherjs-github-actions/)
-
-<img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100">
 
 ---
 
@@ -104,3 +107,19 @@ An Arduino-based system that optimizes solar panel efficiency by tracking the su
 
 ### ⚡ Fun Fact:
 > "I am funny! 😄"
+
+## 🐍 A Snake Eating My Contributions Graph
+
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
+
+
+<h2 align='left'>Thank You </h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+</p>
