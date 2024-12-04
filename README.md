@@ -121,3 +121,6 @@ An Arduino-based system that optimizes solar panel efficiency by tracking the su
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
 </p>
+
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
