@@ -18,17 +18,15 @@
 - 🧑‍💻 Beginner **Data Science**   
 - 🖱️ I have learned **C** and am currently learning **Java**, **C++**, and **Python**.  
 - 🧑‍🎓 Currently studying **Computer Science and Software Engineering**.  
-- 🤓 Passionate about exploring and learning new things every day.  
+- 🤓 Passionate about exploring and learning new things every day.
+- 💻 **Current Focus:** Learning Data Science and improving coding skills  
+- 🎯 **Goal:** To make a positive impact through technology  
+- 🎨 **Hobbies:** Exploring new tech, coding, gaming, and graphic designing  
 
 ---
 ## 📌 My Portfolio:
 Check out my full portfolio: [Portfolio Link](http://127.0.0.1:5500/portfolio/index.html)
-
-## 🌟 About Me:
-- 🎓 **University:** Patuakhali Science and Technology University  
-- 💻 **Current Focus:** Learning Data Science and improving coding skills  
-- 🎯 **Goal:** To make a positive impact through technology  
-- 🎨 **Hobbies:** Exploring new tech, coding, gaming, and graphic designing  
+ 
 
 ### 👀 Number of Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sakib-Hasan3&style=flat-square&color=blue)
