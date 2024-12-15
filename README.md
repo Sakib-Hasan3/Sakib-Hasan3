@@ -2,7 +2,7 @@
   Welcome to Mohammed Sakib Hasan's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hello+there!+Welcome+to+my+profile;I+am+Mohammed+Sakib+Hasan;I+am+studying+Computer+Science;My+University+is+Patuakhali+Science+and+Technology+University)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Welcome+to+my+profile;I+am+Mohammed+Sakib+Hasan;I+am+studying+Computer+Science;My+University+is+Patuakhali+Science+and+Technology+University)
 
 ---
 
@@ -11,7 +11,6 @@
 
 ---
 ### 🌟 **About Me**  
-
 - 🏫 I am a **2nd Year student** from the Faculty of **Computer Science and Engineering** at **Patuakhali Science and Technology University**.  
 - 🏆 **Achievements**: *Nothing yet, but always striving to grow!*  
 - 🧔‍♂️ I love technology and enjoy using it to solve everyday problems.  
@@ -41,6 +40,8 @@ Check out my full portfolio: [Portfolio Link](http://127.0.0.1:5500/portfolio/in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakib-hasan-931276266/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sakibpstu123)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/<01869793139>)
+[![Upwork](https://download.logo.wine/logo/Upwork/Upwork-Logo.wine.png)](https://www.upwork.com/freelancers/~01eec6431f9ee02123)
+
 
 ---
 
@@ -50,6 +51,8 @@ Check out my full portfolio: [Portfolio Link](http://127.0.0.1:5500/portfolio/in
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
+
 
 ---
 
@@ -82,6 +85,8 @@ Check out my full portfolio: [Portfolio Link](http://127.0.0.1:5500/portfolio/in
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakib-Hasan3&theme=react-dark)
 
 ---
+## 📈 Commit Timeline
+![GitHub Streak](https://streak-stats.demolab.com?user=Sakib-Hasan3&theme=dark&date_format=j%20M%5B%20Y%5D)
 
 ## 🌈 Animated Fun:
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
@@ -100,6 +105,8 @@ An IoT-based robot capable of detecting alcohol levels for safety and monitoring
 
 🔹 [Solar Tracking System ☀️](https://github.com/Sakib-Hasan3/Solar-Tracking-System)  
 An Arduino-based system that optimizes solar panel efficiency by tracking the sun's position.
+
+
 
 ---
 
