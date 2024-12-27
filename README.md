@@ -1,5 +1,6 @@
 <h3 align="center">
-  Welcome to Mohammed Sakib Hasan's profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Mohammed Sakib Hasan's profile! <img
+						     ="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Welcome+to+my+profile;I+am+Mohammed+Sakib+Hasan;Studying+Computer+Science;)
