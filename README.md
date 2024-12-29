@@ -25,7 +25,7 @@
 
 ---
 ## 📌 My Portfolio:
-Check out my full portfolio: [Portfolio Link](http://127.0.0.1:5500/portfolio/index.html)
+Check out my full portfolio: [Portfolio Link](http://127.0.0.1:5500/index.html)
  
 
 ### 👀 Number of Profile Visitors
