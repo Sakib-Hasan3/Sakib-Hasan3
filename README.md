@@ -7,9 +7,6 @@
 
 ---
 
-### 🏆 Github Profile Trophy
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Sakib-Hasan3&theme=gruvbox&margin-w=15&margin-h=15)
-
 ---
 ### 🌟 **About Me**  
 - 🏫 I am a **2nd Year student** from the Faculty of **Computer Science and Engineering** at **Patuakhali Science and Technology University**.  
@@ -24,6 +21,10 @@
 - 🎨 **Hobbies:** Exploring new tech, coding, gaming, and graphic designing  
 
 ---
+
+### 🏆 Github Profile Trophy
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Sakib-Hasan3&theme=gruvbox&margin-w=15&margin-h=15)
+
 ## 📌 My Portfolio:
 Check out my full portfolio: [Portfolio Link](http://127.0.0.1:5500/index.html)
  
