@@ -24,7 +24,7 @@
 </p>
 
 ## 🌎 Portfolio
-🚀 Check out my portfolio: **[Portfolio Link](http://127.0.0.1:5500/index.html)**
+🚀 Check out my portfolio: **[Portfolio Link](https://sakib-hasan3.github.io/Portfolio/)**
 
 ## 👀 Profile Visitors
 <p align="center">
