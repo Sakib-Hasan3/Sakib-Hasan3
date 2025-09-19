@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 **CSE Student** | **2nd Year** at **Patuakhali Science and Technology University**.  
+- 🎓 **CSE Student** | **3rd Year** at **Patuakhali Science and Technology University**.  
 - 🏆 **Achievements:** *Continuously learning and growing!*  
 - 💡 Passionate about **Technology**, **Problem-Solving**, and **Data Science**.  
 - 🔥 Proficient in **C**, currently exploring **Java**, **C++**, and **Python**.  
